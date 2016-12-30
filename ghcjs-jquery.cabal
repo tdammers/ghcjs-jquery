@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                ghcjs-jquery
-version:             0.1.0.0
+version:             0.1.0.1
 homepage:            http://github.com/ghcjs/ghcjs-jquery
 license:             MIT
 license-file:        LICENSE
